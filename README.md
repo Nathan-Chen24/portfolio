@@ -16,10 +16,16 @@ Selected projects in data science, machine learning and NLP
 ---
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Ensemble Machine Learning for Sentiment Analysis on Amazon Reviews
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Predicting customer satisfaction from text is a core challenge in e-commerce. In this project, I formulated star-rating prediction as a binary classification task, distinguishing 5-star reviews from lower ratings using Natural Language Processing (NLP). I created a custom ensemble ("Blending") model that stacked Logistic Regression, CART, Random Forest, and Gradient Boosting classifiers, optimizing their weights via OLS regression to achieve a 16% accuracy improvement over the baseline.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-FF6F00?style=flat)
+
+[View Code On Colab](https://colab.research.google.com/drive/1Kc_7_DeSBrQE4qzKv35DbYMZ_tHQutYI?usp=sharing)
+
 
 ---
 
