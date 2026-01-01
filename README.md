@@ -22,9 +22,11 @@ Predicting customer satisfaction from text is a core challenge in e-commerce. In
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-306998?style=flat&logo=python&logoColor=white)
 ![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-FF6F00?style=flat)
 
-[View Code On Colab](https://colab.research.google.com/drive/1Kc_7_DeSBrQE4qzKv35DbYMZ_tHQutYI?usp=sharing)
+[View Notebook on GitHub](projects/amazon_sentiment/Ensemble_Machine_Learning_for_Sentiment_Analysis_on_Amazon_Reviews.ipynb)
 
 
 ---
