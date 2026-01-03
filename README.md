@@ -20,6 +20,29 @@ Selected projects in data science, machine learning and NLP
 
 Predicting customer satisfaction from text is a core challenge in e-commerce. In this project, I formulated star-rating prediction as a binary classification task, distinguishing 5-star reviews from lower ratings using Natural Language Processing (NLP). I created a custom ensemble ("Blending") model that stacked Logistic Regression, CART, Random Forest, and Gradient Boosting classifiers, optimizing their weights via OLS regression to achieve a 16% accuracy improvement over the baseline.
 
+**Selected Project Figures:**
+
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Nathan-Chen24/portfolio/main/assets/img/logistic%20regression%20roc.png" width="100%" alt="ROC Curve"/>
+      <br>
+      <b><small>Figure 1. Logistic Regression ROC Curve</small></b>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Nathan-Chen24/portfolio/main/assets/img/random%20forest%20bar.png" width="100%" alt="Feature Importance"/>
+      <br>
+      <b><small>Figure 2: Random Forest Most Important Features</small></b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nathan-Chen24/portfolio/main/assets/img/model%20comparisons.png" width="85%" alt="Model Comparison Table"/>
+  <br>
+  <b><small>Figure 3: Model Comparison</small></b>
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
