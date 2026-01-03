@@ -31,13 +31,13 @@ Predicting customer satisfaction from text is a core challenge in e-commerce. In
 
 ---
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### 7 Million Demand Elasticities: Visualizing the "Retail Apocalypse"
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Collaborated with researchers from the San Francisco Fed and UChicago on the "Seven Million Demand Elasticities" (7MDE) project to investigate if broadband proliferation caused a decline in brick-and-mortar retail. Developed an interactive **R Shiny** dashboard to visualize over 7.5 million price elasticity estimates across 14,000 products. The analysis revealed no negative correlation between broadband usage and in-store consumer activity, challenging the retail apocalypse hypothesis.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![R Shiny](https://img.shields.io/badge/Shiny-007bc2?style=flat&logo=rstudio&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-Geographic_Information_Systems-228B22?style=flat&logo=openstreetmap&logoColor=white)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+[View Project Repository](https://github.com/Nathan-Chen24/Broadband-R-Shiny) [View Official Poster](https://cdss.berkeley.edu/project/seven-million-demand-elasticities)
 
-test
