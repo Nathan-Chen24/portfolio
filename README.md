@@ -30,11 +30,6 @@ Developed a reusable fine-tuning pipeline to adapt open-source Large Language Mo
 
 [View Notebook on Github](LINK_TO_NOTEBOOK)
 
-**Key Technical Achievements:**
-* **Custom Data Engineering:** Scraped and structured raw script data into instruction-response pairs for supervised fine-tuning.
-* **Efficient Training:** Implemented 4-bit quantization (`bitsandbytes`) and LoRA adapters (`PEFT`) to reduce memory usage by ~70% while maintaining performance.
-* **Scalable Workflow:** Created a modular pipeline applicable to any open-source model (e.g., Llama 2, Mistral) for domain-specific tasks.
-
 <hr style="border: 1px solid #eaecef;">
 
 ### Ensemble Machine Learning for Sentiment Analysis on Amazon Reviews
