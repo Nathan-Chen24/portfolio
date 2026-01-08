@@ -28,7 +28,7 @@ Developed a reusable fine-tuning pipeline to adapt open-source Large Language Mo
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![QLoRA](https://img.shields.io/badge/QLoRA-Quantized_Fine_Tuning-007ACC?style=flat)
 
-[View Notebook on Github](LINK_TO_NOTEBOOK)
+[View Project Folder on GitHub](https://github.com/NChen29/Nchen29.github.io/tree/main/projects/LLM-Fine-Tuning)
 
 <hr style="border: 1px solid #eaecef;">
 
